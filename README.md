@@ -1,5 +1,6 @@
 # Simple-Map-Zoom
-Removed
+Default Key "G"
+Easy to read Config
 
 # Discord
 https://discord.gg/FAduBsz3H3
